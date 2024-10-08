@@ -1,5 +1,6 @@
 ## Hi  Nishan here.
-👋 About Me
+# 👋 About Me
+
 I am currently working in Software Development and Web Development. I’m passionate about building software solutions and web applications.
 
 🔭 I’m looking to collaborate on tech-related ideas and group projects.
