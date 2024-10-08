@@ -24,4 +24,4 @@ Python | Django | HTML | CSS | JavaScript | React | MySQL </br>
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
 </div>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=battulalshrestha&show_icons=true&locale=en" alt="battulalshrestha" /></p>
