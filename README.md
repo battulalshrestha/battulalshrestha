@@ -8,7 +8,7 @@ I am currently working in Software Development and Web Development. I’m passio
 Python | Django | HTML | CSS | JavaScript | React | MySQL </br>
 💬 Ask me anything about programming/coding or share your knowledge with me. </br>
 🎯 Fun fact: I may be a noob, but I'm serious and eager to learn coding! </br>
-
+<p> Lets collabrate and make it better .felt free to reach out me</p>
 ## connect with me:)
 <div id="badges">
   <a href="https://github.com/battulalshrestha">
@@ -24,4 +24,4 @@ Python | Django | HTML | CSS | JavaScript | React | MySQL </br>
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
 </div>
-<p> Lets collabrate and make it better .felt free to reach out me</p>
+
