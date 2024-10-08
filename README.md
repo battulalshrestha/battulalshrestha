@@ -29,3 +29,5 @@ connect with me:)
 </div>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=battulalshrestha&show_icons=true&locale=en" alt="battulalshrestha" /></p>
+<br>
+<h1>Reach me at nishancode19th@gmail.com</h1>
