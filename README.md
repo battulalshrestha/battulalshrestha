@@ -12,7 +12,7 @@ Python | Django | HTML | CSS | JavaScript | React | MySQL </br>
 <br>
 connect with me:) 
 </br>
-
+<br>
 <div id="badges">
   <a href="https://github.com/battulalshrestha">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
