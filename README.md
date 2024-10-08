@@ -10,8 +10,9 @@ Python | Django | HTML | CSS | JavaScript | React | MySQL </br>
 🎯 Fun fact: I may be a noob, but I'm serious and eager to learn coding! </br>
 
 ## connect with me:)
-<div id = "social_media>
-  <a href = "https://www.facebook.com/nishan.shrestha.9803150">
-  <i class="bi bi-facebook"></i>
+<div id="social_media">
+  <a href="https://www.facebook.com/nishan.shrestha.9803150" target="_blank">
+    <i class="bi bi-facebook"></i>
   </a>
 </div>
+
