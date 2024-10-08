@@ -9,7 +9,8 @@ Python | Django | HTML | CSS | JavaScript | React | MySQL </br>
 💬 Ask me anything about programming/coding or share your knowledge with me. </br>
 🎯 Fun fact: I may be a noob, but I'm serious and eager to learn coding! </br>
 <p> Lets collabrate and make it better .felt free to reach out me</p>
-- 📫 Reach me at [**nishancode19th@gmail.com**](mailto:nishancode19th@gmail.com)
+- 📫 Reach me at nishancode19th@gmail.com
+
 
 
 <br>
