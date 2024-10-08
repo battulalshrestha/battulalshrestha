@@ -9,3 +9,9 @@ Python | Django | HTML | CSS | JavaScript | React | MySQL </br>
 💬 Ask me anything about programming/coding or share your knowledge with me. </br>
 🎯 Fun fact: I may be a noob, but I'm serious and eager to learn coding! </br>
 
+## connect with me:)
+<div id = "social_media>
+  <a href = "https://www.facebook.com/nishan.shrestha.9803150">
+  <i class="bi bi-facebook"></i>
+  </a>
+</div>
